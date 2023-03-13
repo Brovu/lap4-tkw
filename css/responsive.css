@@ -1,0 +1,25 @@
+@media (min-width: 740px) and (max-width: 1239px) {
+  .content__link {
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  .content__question {
+    margin: 10px 0;
+    text-align: center;
+  }
+}
+
+@media (max-width: 739px) {
+  .content__question {
+    margin: 10px 0;
+    text-align: center;
+  }
+  .content__menu {
+    margin-top: 30px;
+  }
+  .content__link {
+    padding: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+}
